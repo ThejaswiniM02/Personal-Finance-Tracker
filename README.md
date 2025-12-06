@@ -32,21 +32,15 @@ It showcases a modern React dashboard, secure authentication, and a basic Node/E
 cd backend
 npm install
 
-text
-
 Create a `.env` file in `backend`:
 
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 PORT=5000
 
-text
-
 Run the backend:
 
 npm run dev
-
-text
 
 The API will be available at `http://localhost:5000`.
 
@@ -57,8 +51,6 @@ In another terminal:
 cd frontend # or project root if frontend is at top level
 npm install
 npm run dev
-
-text
 
 The app will be available at `http://localhost:5173` (Vite default).
 
