@@ -1,6 +1,6 @@
 # Personal Finance Tracker
 
-A full‑stack personal finance tracker built as a Frontend Developer Intern assignment.  
+A full‑stack personal finance tracker. 
 It showcases a modern React dashboard, secure authentication, and a basic Node/Express backend with MongoDB.
 
 ## Tech Stack
@@ -26,11 +26,6 @@ It showcases a modern React dashboard, secure authentication, and a basic Node/E
 ## Getting Started
 
 ### 1. Clone the repo
-
-git clone https://github.com/<your-username>/<this-repo>.git
-cd <this-repo>
-
-text
 
 ### 2. Backend setup
 
